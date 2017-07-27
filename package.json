@@ -10,7 +10,12 @@
     "eggPlugin",
     "egg-plugin"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "istanbul": "0.4.x",
+    "express": "4.x",
+    "body-parser": "~1.12.3",
+    "archiver": "0.14.x"
+  },
   "devDependencies": {
     "autod": "^2.8.0",
     "autod-egg": "^1.0.0",
