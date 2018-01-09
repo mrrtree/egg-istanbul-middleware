@@ -1,6 +1,6 @@
 {
   "name": "egg-istanbul-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "eggPlugin": {
     "name": "istanbulMiddleware"
@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-istanbul-middleware.git"
+    "url": "https://github.com/mrrtree/egg-istanbul-middleware"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/mrrtree/egg-istanbul-middleware/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-istanbul-middleware#readme",
+  "homepage": "https://github.com/mrrtree/egg-istanbul-middleware",
   "author": "xuyang",
   "license": "MIT"
 }
