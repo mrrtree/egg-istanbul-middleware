@@ -1,6 +1,6 @@
 {
   "name": "egg-istanbul-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "eggPlugin": {
     "name": "istanbulMiddleware"
@@ -43,7 +43,8 @@
   "files": [
     "app.js",
     "agent.js",
-    "config"
+    "config",
+    "istanbul-middleware"
   ],
   "ci": {
     "version": "6, 8"
